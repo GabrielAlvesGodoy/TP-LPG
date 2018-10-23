@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
  * @author Marlon dos Santos
  * RA.: 1290481823029
  * @author Gabriel Godoy
- * RA.:
+ * RA.: 1290481813025
  */
 public class TP_LPG {
     
